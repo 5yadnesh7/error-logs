@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "64f182c693f517dc3412a840"
+  },
+  "username": "Yadnesh",
+  "email": "yadnesh.gaikwad@justdial.com",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "64f18354be60eb9452beae0e"
+  },
+  "username": "Sahil",
+  "email": "sahil.k@justdial.com",
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "64f8153573db4467d01257bd"
+  },
+  "username": "Yona",
+  "email": "yona.thokal@justdial.com",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "64f8154273db4467d01257be"
+  },
+  "username": "Arun",
+  "email": "arun@justdial.com",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "64fea22f898504bac1816af6"
+  },
+  "username": "unAssign",
+  "email": "",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6503ebf53f4dec10ae6af9c3"
+  },
+  "username": "anshual",
+  "email": "anshual.tanwani@justdial.com",
+  "isActive": false
+}]
